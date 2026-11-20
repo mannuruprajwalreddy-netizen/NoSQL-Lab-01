@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Submissions and large archives
+*.zip
+*.tar.gz
+
+# Environments and Virtualenvs
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Editor / IDE configuration
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
